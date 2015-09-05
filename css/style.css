@@ -1,34 +1,26 @@
-body { 
-    padding-top: 65px; 
-    font-family: 'Roboto', sans-serif;
+body {
+	padding-top: 65px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	background-image: url(../img/dust_@2X.png);
+}
+
+h1{
+		font-family: "Roboto", "sans-serif";
+}
+img[src="img/bp.jpg"] {
+	border-radius: 10px;
 }
 /***************************NAVBAR EDIT*********************************/
 .navbar-brand {
-  float: none;
-  }
-.navbar-center
-{
-    position: absolute;
-    width: 100%;
-    left: 0;
-    top: 0;
-    text-align: center;
-  height:100%;
-
-}
-#navlogo{
-    text-align: center;
+	padding: 0;
 }
 
-@media (max-width: 768px) { 
-#navlogo{
-max-height: 50px;
-
+@media (max-width: 768px) {
+#navlogo {
+	max-width: 90%;
 }
-.navbar-center{
-text-align: left;
-margin-left: 10px;
-
+.navbar-brand {
+	width: 80%
 }
-
 }
