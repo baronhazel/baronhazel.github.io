@@ -21,20 +21,20 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body>
-<nav class="navbar navbar-default navbar-fixed-top">
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid"> 
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-      <a class="navbar-brand" href="index.html"><img id="navlogo" src="img/logo.png"></a> </div>
+      <a class="navbar-brand page-scroll" href="#home"><img id="navlogo" src="img/logo.png"></a> </div>
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="portfolio.html">Portfolio</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a class="page-scroll" href="#home">Home <span class="sr-only">(current)</span></a></li>
+        <li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
+        <li><a class="page-scroll" href="#contact">Contact</a></li>
       </ul>
     </div>
     
@@ -42,57 +42,63 @@
   </div>
   <!-- /.container-fluid --> 
 </nav>
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-md-6">
-      <h1>Welcome to Blakeney Bienvenue</h1>
-      <p>Here you can find free templates for your own website in the portfolio section. You can also see web apps that I am currently working on. These templates and apps are created for other users to have templates for their own websites.</p>
-    </div>
-    <div class="col-md-6">
-      <h2>Most Recent</h2>
-      <a href="portfolio/blakeneyproductions/index.html"> <img style="max-width:100%" src="img/bp.jpg"></a>
-      <p>Bootstrap Framework built audio website for Voice Imagine website.</p>
+<section id="home" class="home-section"  data-target="#home">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+        <h1>Welcome to Blakeney Bienvenue</h1>
+        <p></p>
+      </div>
+      <div class="col-md-6">
+        <h2>Most Recent</h2>
+        <a href="portfolio/blakeneyproductions/index.html"> <img style="max-width:100%" src="img/bp.jpg"></a>
+        <p>Bootstrap Framework built audio website for Voice Imagine website.</p>
+      </div>
     </div>
   </div>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</section>
+<section id="portfolio" class="portfolio-section"></section>
+<section id="contact" class="contact-section"></section>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/jquery.easing.min.js"></script> 
+<script src="js/scrolling-nav.js"></script>
 </body>
 </html>
