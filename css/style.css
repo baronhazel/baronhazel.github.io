@@ -27,19 +27,21 @@ img[src="img/bp.jpg"] {
 	overflow-y: scroll;
 	border-top: 1px solid #3e3f3a;
 	border-bottom: 1px solid #3e3f3a;
-	
 }
 .contact-section {
 	min-height: 100%;
-	padding-top:100px;
+	padding-top: 100px;
 	text-align: left;
 	overflow-y: scroll;
 	border-bottom: 1px solid #3e3f3a;
 }
-.divback{
-	background-color:hsla(0,0%,84%,1.00);
-	border-radius:20px;
-	padding: 20px 15px 0px 10px;	
+.divback {
+	background-color: hsla(0,0%,84%,1.00);
+	border-radius: 20px;
+	padding: 20px 15px 0px 10px;
+}
+.btn {
+	width: 150px;
 }
 /***************************NAVBAR EDIT*********************************/
 
