@@ -16,16 +16,18 @@ img[src="img/bp.jpg"] {
 }
 .home-section {
 	min-height: 100%;
-	padding-top: 150px;
+	padding-top: 100px;
 	text-align: center;
-	background-color:rgba(255,255,255,1.00);
-
+	background-color: rgba(255,255,255,1.00);
 }
 .portfolio-section {
 	min-height: 100%;
+	padding-top: 100px;
 	text-align: center;
 	overflow-y: scroll;
-	background-color:rgba(66,61,255,1.00);
+	border-top: 1px solid #3e3f3a;
+	border-bottom: 1px solid #3e3f3a;
+	
 }
 .contact-section {
 	min-height: 100%;
@@ -33,7 +35,7 @@ img[src="img/bp.jpg"] {
 	padding-top: 0px;
 	text-align: center;
 	overflow-y: scroll;
-	background-color:rgba(0,185,70,1.00);
+	background-color: rgba(0,185,70,1.00);
 }
 /***************************NAVBAR EDIT*********************************/
 
@@ -41,14 +43,16 @@ img[src="img/bp.jpg"] {
 	padding: 11px 15px;
 }
 
-
-
+/***************************MEDIA QUERIES*********************************/
 @media (max-width: 768px) {
 #navlogo {
 	max-width: 90%;
 }
 .navbar-brand {
 	width: 80%
+}
+.navbar-default {
+	background-color: hsla(72,4%,24%,0.9);
 }
 }
 
@@ -65,7 +69,6 @@ img[src="img/bp.jpg"] {
 .top-nav-collapse {
 	padding: 0;
 	filter: none;
-	background-color:hsla(72,4%,24%,0.9);
-	
+	background-color: hsla(72,4%,24%,0.9);
 }
 }
