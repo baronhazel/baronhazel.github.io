@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"phone",
+				"phone_numbers"
+			],
+			[
+				"phon",
+				"phone_numbers"
+			],
+			[
+				"phoe",
+				"phone_numbers"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"contac",
+				"contact_list"
+			],
+			[
+				"add",
+				"add_contact"
+			],
+			[
+				"print",
+				"print_seperator"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 58.0,
+		"history":
+		[
+			"slkjs;lfkja'sldf",
+			"echo \"Hello\"",
+			"echo hello"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/app",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/app/models",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/app/models/concerns",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/config",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/spec",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/spec/features",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/spec/features/todo_lists"
+	],
+	"file_history":
+	[
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/app/models/todo_list.rb",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/spec/features/todo_lists/create_spec.rb",
+		"/Users/ryanblakeney/Downloads/InteractiveStory/app/src/main/java/teamtreehouse/com/interactivestory/ui/StoryActivity.java",
+		"/Users/ryanblakeney/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/config/routes.rb",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/Gemfile",
+		"/Users/ryanblakeney/Documents/Dev/Ruby/odot/spec/spec_helper.rb",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/blog/style.scss",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/blog/blog/_config.yml",
+		"/Users/ryanblakeney/Desktop/ruby.rb",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/index.html",
+		"/Users/ryanblakeney/Desktop/scrollstuff.html",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/css/style.css",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/css/bootstrap.min.css",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/css/bootstrap.css",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/img/logo.svg",
+		"/Users/ryanblakeney/Desktop/hello.rb",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/portfolio/blakeneyproductions/index.html",
+		"/Users/ryanblakeney/Documents/Dev/Websites/baronhazel.github.io/blakeneyproductions/css/mycss.css",
+		"/Users/ryanblakeney/Downloads/index-old.html",
+		"/Users/ryanblakeney/Downloads/Spore-RELOADED/reloaded.nfo",
+		"/Users/ryanblakeney/Desktop/wp-config.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"only main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bh.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 264.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
